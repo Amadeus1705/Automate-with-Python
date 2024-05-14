@@ -55,5 +55,4 @@ sheet.update_cell(1, 1, "This cell has been updated!")  # Update a cell's value
 
 - [gspread Documentation](https://gspread.readthedocs.io/en/latest/)
 - [gspread Formatting Documentation](https://github.com/robin900/gspread-formatting)
-- 
 ---
