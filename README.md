@@ -29,10 +29,7 @@ Follow the tutorial by [Tech With Tim](https://www.youtube.com/watch?v=zCEJurLGF
 - `main.py`: Your main script where you'll write your custom automation logic. Replace the placeholder `sheet_id` with the ID of your own Google Sheet.
 - `requirements.txt`: Lists the project dependencies.
 
-### Additional Resources
 
-- [gspread Documentation](https://gspread.readthedocs.io/en/latest/)
-- [gspread Formatting Documentation](https://github.com/robin900/gspread-formatting)
 
 ### Basic Operations Example
 
@@ -54,9 +51,9 @@ sheet.update_cell(1, 1, "This cell has been updated!")  # Update a cell's value
 - **Double-Check Credentials**: Ensure your `credentials.json` file is valid and has the correct permissions.
 - **Share Your Sheet**: The service account email associated with your credentials needs edit access to your Google Sheet.
 
-### Sources
+### Additional Resources
 
-- [Stack Overflow](https://stackoverflow.com/questions/76827026/how-to-read-google-sheet-using-google-sheet-url-and-google-auth-login-in-python)
-- [GitHub Repository](https://github.com/esenthil2018/ML_API)
-
+- [gspread Documentation](https://gspread.readthedocs.io/en/latest/)
+- [gspread Formatting Documentation](https://github.com/robin900/gspread-formatting)
+- 
 ---
