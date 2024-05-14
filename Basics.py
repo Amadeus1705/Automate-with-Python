@@ -55,10 +55,3 @@ fmt = cellFormat(
     )
 
 format_cell_range(sheet, 'A1:J1', fmt)
-
-
-
-# Things to add in readme, learned from techwithTim, 
-# Using the gspread documentation to learn more
-# Find attached the link to the test sheet
-# I have removed my credentials to the main account
